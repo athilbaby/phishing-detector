@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+phishing_data.csv
+features.csv
+phishing_model.pkl
+.vscode/

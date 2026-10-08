@@ -1,0 +1,17 @@
+url,label
+https://www.google.com,0
+https://www.paypal.com/signin,0
+https://github.com/login,0
+https://www.amazon.com,0
+https://www.wikipedia.org,0
+https://www.microsoft.com,0
+https://www.bankofireland.com,0
+https://www.netflix.com/browse,0
+http://paypal-secure-login.verify-account.xyz-123.ru/login,1
+http://192.168.1.1/amazon/signin/update.php,1
+http://secure-paypaI-account.com/webscr?cmd=login,1
+http://free-gift-card.winner-prize.tk/claim,1
+http://bankofireland.account-verify.ml/login.html,1
+http://appleid.apple.com-verify.suspicious.ru/signin,1
+http://facebook-security-check.gq/recover,1
+http://update-your-account.netflix-billing.cf/login,1
